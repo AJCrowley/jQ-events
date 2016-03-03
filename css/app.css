@@ -1,0 +1,10 @@
+label {
+	clear: both;
+	display: block;
+	float: left;
+	width: 100px;
+}
+
+select {
+	float: left;
+}
